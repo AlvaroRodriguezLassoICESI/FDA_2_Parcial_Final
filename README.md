@@ -24,3 +24,5 @@ Este proyecto tiene como objetivo desarrollar un modelo predictivo capaz de clas
 - OpenCV
 - Otros paquetes necesarios (ver `requirements.txt`)
 
+ok
+
