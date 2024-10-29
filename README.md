@@ -5,6 +5,8 @@
 
 Este proyecto tiene como objetivo desarrollar un modelo predictivo capaz de clasificar y localizar pingüinos o tortugas en imágenes. A partir de un conjunto de datos proporcionado, que incluye imágenes y sus anotaciones correspondientes, el modelo debe identificar qué animal aparece en la imagen (pingüino o tortuga) y determinar su ubicación precisa dentro de la misma.
 
+La competencia en Kaggle se encuentra en https://www.kaggle.com/competitions/af-ii-2024-ii-object-localization
+
 ## Estructura del Proyecto
 
 1. **Datos**: Las imágenes y las anotaciones vienen incluidas en el conjunto de datos, el cual ha sido preprocesado para facilitar el entrenamiento del modelo.
